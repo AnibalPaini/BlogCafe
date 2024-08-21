@@ -1,0 +1,1 @@
+Pagina web estática sobre un blog de cafe hecha con HTML y CSS.
